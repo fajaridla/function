@@ -2,3 +2,4 @@ xml
 <phone_number> 08123565776 </phone_number>
 <address> Jl Bantar Kambing Atang Sanjaya </address>
 <email> abc@gmail.com </email>
+<zip> 09876 </zip>
