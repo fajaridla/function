@@ -1,2 +1,7 @@
-ini adalah testing
-oke siaap
+
+xml
+<phone_number> 08123565776 </phone_number>
+<address> Jl Bantar Kambing Atang Sanjaya </address>
+<email> abc@gmail.com </email>
+<zip> 09876 </zip>
+>>>>>>> db74ed38b8bb6a75020cedf13134189d48be2fc1
